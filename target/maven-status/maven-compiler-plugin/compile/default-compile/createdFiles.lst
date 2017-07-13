@@ -1,0 +1,10 @@
+com\example\AadUserInfoRestTemplateCustomizer.class
+com\example\AadUserInfoRestTemplateCustomizer$1.class
+com\example\AadOauth2RequestAuthenticator$AccessRequest.class
+com\example\AadAccessTokenProvider.class
+com\example\AzureRequestEnhancerCustomizer.class
+com\example\AzureRequestEnhancer.class
+com\example\SocialApplication.class
+com\example\Widget.class
+com\example\WidgetController.class
+com\example\AadOauth2RequestAuthenticator.class
